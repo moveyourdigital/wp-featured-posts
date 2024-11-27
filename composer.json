@@ -1,0 +1,24 @@
+{
+  "name": "moveyourdigital/wp-featured-posts",
+  "description": "Log all emails sent from WordPress",
+  "homepage": "https://github.com/moveyourdigital/wp-featured-posts",
+  "keywords": [
+    "wordpress"
+  ],
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Move Your Digital, Inc.",
+      "email": "engineering@moveyourdigital.com",
+      "homepage": "https://moveyourdigital.com/"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/moveyourdigital/wp-featured-posts/issues",
+    "source": "https://github.com/moveyourdigital/wp-featured-posts"
+  },
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
